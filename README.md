@@ -6,8 +6,13 @@ The project focuses on implementing the Accounts Payable module within Microsoft
 
  Team Members:
 Belal Hassan (Team Leader)
+
 Abdullah Shamikh
+
 Nuur Hesham
+
 Marwan Alaa
+
 Emad Abdel Aziz
+
 Asmaa Yassin
